@@ -1,13 +1,13 @@
 <h1 align="center">👋, I'm Brenda</h1>
+
 <h3 align="center">A passionate Backend Developer from Argentina</h3>
 
 
+- 🌱 **I’m currently learning Java at ADA ITW.**
 
-- 🌱 **I’m currently learning Java at ADA ITW**
+- 💻 Technologies I use: **JAVA, API REST - WEB API, Hibernate, Springboot, Postman, SQL, MAVEN**
 
-- 💻 Technologies I use: **JAVA, API REST - WEB API, Hibernate, Springboot, Postman, SQL, MAVE**
-
-- 🌸 **I love learning new things**
+- 🌸 **I love learning new things about technology and art.**
 
 - 📫 How to reach me **brendamonteagudo@gmail.com**
 
