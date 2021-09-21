@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brendamonteagudo1&label=Profile%20views&color=0e75b6&style=plastic" alt="brendamonteagudo1" /> </p>
 
 - 🌱 **I’m currently learning Java at ADA ITW**
+- 
+- 💻 **Technologies I use: JAVA, API REST - WEB API, Hibernate, Springboot, Postman, SQL, MAVEN **
 
 - 🌸 **I love learning new things**
 
