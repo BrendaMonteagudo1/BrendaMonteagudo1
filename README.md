@@ -5,7 +5,7 @@
 
 - 🌱 **I’m currently learning Java at ADA ITW**
 
-- 💻 Technologies I use: **JAVA, API REST - WEB API, Hibernate, Springboot, Postman, SQL, MAVEN **
+- 💻 Technologies I use: **JAVA, API REST - WEB API, Hibernate, Springboot, Postman, SQL, MAVE**
 
 - 🌸 **I love learning new things**
 
