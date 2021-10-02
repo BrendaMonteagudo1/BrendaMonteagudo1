@@ -1,7 +1,6 @@
 <h1 align="center">👋, I'm Brenda</h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brendamonteagudo1&label=Profile%20views&color=0e75b6&style=plastic" alt="brendamonteagudo1" /> </p>
 
 - 🌱 I’m currently learning **I’m currently learning Java at ADA ITW**
 
