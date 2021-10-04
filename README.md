@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
 
-- 🌱 I’m currently learning **I’m currently learning Java at ADA ITW**
+- 🌱 **I’m currently learning Java at ADA ITW**
 
 - 🌸 Ask me about **I love learning new things**
 
