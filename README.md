@@ -4,9 +4,10 @@
 
 - 🌱 **I’m currently learning Java at ADA ITW**
 
-- 🌸 Ask me about **I love learning new things**
+- 🌸  **I love learning new things about technology and art**
 
 - 📫 How to reach me **brendamonteagudo@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
